@@ -10,11 +10,11 @@ You'll want to clone the repository and build the language on your system.
 
 Is this named after Morpheus in **The Matrix**?
 
-__Yes.__
+_Yes._
 
 What are the next features to be implemented?
 
-__Ideally some of the matrix operations like what I'm currently able to run using **matplotlib** and **numpy** in Python.__
+_Ideally some of the matrix operations like what I'm currently able to run using **matplotlib** and **numpy** in Python._
 
 ### Feedback or Support
 
