@@ -1,10 +1,10 @@
 ## Morpheus
 
-You can use the [editor on GitHub](https://github.com/tranc99/morpheus-lang/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Morpheus programming language will have some familiarity for Lisp and Racket programmers.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+It uses Polish notation and takes a functional approach to code. The macro system is still to be implemented.
 
-### Morpheus
+### Influences
 
 Morpheus is a small, Lisp-like language with influences from the great languages I use everyday. It includes conventions for
 
