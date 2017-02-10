@@ -8,4 +8,5 @@ You'll want to clone the repository and build the language on your system.
 
 ### Feedback or Support
 
-Have feedback for the creator of Morpheus? Find me on Twitter @towersofzeyron
+Have feedback for the creator of Morpheus? Find me on Twitter @towersofzeyron or
+[towersofzeyron](http://towersofzeyron.com)
