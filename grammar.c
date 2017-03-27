@@ -15,3 +15,4 @@ mpc_parser_t* Phrase = mpc_and(2, mpcf_strfold,
 );
 
 // join phrases to get a Doge
+mpc_parser_t* Doge = mpc_many(mpcf_strfold, Phrase);
