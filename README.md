@@ -19,7 +19,8 @@ _Ideally some of the matrix operations like what I'm currently able to run using
 How do I compile the REPL?
 
 __Something like the following
-  ```cc -std=c99 -Wall prompt.c -ledit -o prompt
+  ```
+    cc -std=c99 -Wall prompt.c -ledit -o prompt
   ```
 
   OR
