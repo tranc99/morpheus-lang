@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include <stdlib.h>
+#include "mpc.h"
 
 // If on Windows, compile these functions
 #ifdef _WIN32
@@ -30,7 +31,7 @@ int main(int argc, char** argv) {
   puts("Press Ctrl+C to Exit\n");
 
   while(1) {
-    char* input = readline("morpheus>");
+    char* input = readline("morpheus> ");
     add_history(input);
     printf("No you're a %s\n", input);
     free(input);

@@ -21,6 +21,12 @@ How do I compile the REPL?
 __Something like the following
   ```cc -std=c99 -Wall prompt.c -ledit -o prompt
   ```
+
+  OR
+
+  ```
+    cc -std=c99 -Wall parsing.c mpc.c -ledit -lm -o parsing
+  ```
 __
 ### Feedback or Support
 
