@@ -28,6 +28,14 @@ __Something like the following
   ```
     cc -std=c99 -Wall parsing.c mpc.c -ledit -lm -o parsing
   ```
+
+--
+### Compiling other modules
+
+*
+```
+  cc -std=c99 -Wall evaluation.c mpc.c -ledit -lm -o evaluation
+```
 __
 ### Feedback or Support
 
